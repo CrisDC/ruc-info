@@ -1,0 +1,9 @@
+application:
+  ruc-info:
+    http-client:
+      sunat-proxy:
+        base-url: https://ruc.com.pe/api/v1/consultas
+        token: 38a868b7-7816-4013-ba94-c76840cf5797-fc13fba7-1442-48f2-b7bb-bbfbff597ce7
+
+server:
+  port: 8081
